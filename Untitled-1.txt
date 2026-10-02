@@ -1,0 +1,2 @@
+int(input(Enter your password: ))
+print(input)                                            
